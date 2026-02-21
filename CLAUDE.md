@@ -22,6 +22,10 @@ Tech Radar — a personal radar for tools and services, kept as a single Markdow
 
 Always check with the user before making changes.
 
+When adding entries to the radar:
+- Verify the tool is placed in the most appropriate category, and suggest a better fit if needed.
+- Link the tool name to its official website or project page.
+
 ## Git
 
 Do not include the `Co-Authored-By` trailer in commit messages.

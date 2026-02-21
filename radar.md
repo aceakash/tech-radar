@@ -11,3 +11,40 @@ A personal tech radar for tools and services, inspired by [ThoughtWorks' Tech Ra
 
 ---
 
+## Terminal
+
+### [Ghostty](https://ghostty.org/) — Adopt
+
+Fast and simple.
+
+### [iTerm2](https://iterm2.com/) — Adopt
+
+Used for 10 years before moving to Ghostty. Still a solid choice, you can't go wrong with it.
+
+## Shell
+
+### [Fish](https://fishshell.com/) — Adopt
+
+Autosuggestions from history as you type, syntax highlighting in the terminal and great tab completions, all out of the box. Not POSIX-compatible, so you need to drop into bash for scripts that require it.
+
+## CLI Tools
+
+### [bat](https://github.com/sharkdp/bat) — Adopt
+
+A `cat` replacement with syntax highlighting, line numbers and git integration out of the box.
+
+## Knowledge Management
+
+### [Obsidian](https://obsidian.md/) — Adopt
+
+Local-first, Markdown-based and highly extensible with plugins. Your notes are just files on disk, no vendor lock-in.
+
+### [Notion](https://www.notion.com/) — Hold
+
+Feature-rich but proprietary. Content is locked in their platform. Moved to Obsidian for the local-first, Markdown-based approach.
+
+## AI Tools
+
+### [Claude Code](https://docs.anthropic.com/en/docs/claude-code) — Adopt
+
+AI-powered coding assistant that runs in the terminal. Useful for exploring codebases, writing code and automating multi-step tasks.
