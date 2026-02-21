@@ -135,6 +135,10 @@ Excellent pricing for VPS. Trying it out for side projects.
 
 Free, fast and easy to set up. Works with private repos, unlike GitHub Pages.
 
+### [Fly.io](https://fly.io/) — Trial
+
+Lightweight app hosting with fast global deployments. Trying it out for backend services.
+
 ### [Coolify](https://coolify.io/) — Trial
 
 Open-source, self-hostable alternative to Heroku/Netlify/Vercel for deploying apps and services on your own infrastructure.
