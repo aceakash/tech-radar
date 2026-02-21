@@ -119,6 +119,10 @@ Reliable VPS hosting with great UX and superb documentation.
 
 Excellent pricing for VPS. Trying it out for side projects.
 
+### [Cloudflare Pages](https://pages.cloudflare.com/) — Adopt
+
+Free, fast and easy to set up. Works with private repos, unlike GitHub Pages.
+
 ### [Coolify](https://coolify.io/) — Trial
 
 Open-source, self-hostable alternative to Heroku/Netlify/Vercel for deploying apps and services on your own infrastructure.
