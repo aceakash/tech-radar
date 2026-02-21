@@ -43,6 +43,12 @@ Local-first, Markdown-based and highly extensible with plugins. Your notes are j
 
 Feature-rich but proprietary. Content is locked in their platform. Moved to Obsidian for the local-first, Markdown-based approach.
 
+## Code Editors
+
+### [Visual Studio Code](https://code.visualstudio.com/) — Adopt
+
+The Swiss army knife of code editors. Huge extension ecosystem, works for almost any language or workflow.
+
 ## AI Tools
 
 ### [Claude Code](https://docs.anthropic.com/en/docs/claude-code) — Adopt
