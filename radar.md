@@ -33,6 +33,10 @@ Autosuggestions from history as you type, syntax highlighting in the terminal an
 
 A `cat` replacement with syntax highlighting, line numbers and git integration out of the box.
 
+### [lsd](https://github.com/lsd-rs/lsd) — Assess
+
+A modern `ls` replacement with colours, icons and tree view support.
+
 ## Knowledge Management
 
 ### [Obsidian](https://obsidian.md/) — Adopt
