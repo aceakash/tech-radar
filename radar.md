@@ -37,6 +37,10 @@ A `cat` replacement with syntax highlighting, line numbers and git integration o
 
 A modern `ls` replacement with colours, icons and tree view support.
 
+### [curlie](https://github.com/rs/curlie) — Adopt
+
+A `curl` frontend with the ease of HTTPie and the power of curl.
+
 ## Knowledge Management
 
 ### [Obsidian](https://obsidian.md/) — Adopt
