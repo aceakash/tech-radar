@@ -28,4 +28,5 @@ When adding entries to the radar:
 
 ## Git
 
-Do not include the `Co-Authored-By` trailer in commit messages.
+- Do not include the `Co-Authored-By` trailer in commit messages.
+- Each tool entry should get its own commit.
