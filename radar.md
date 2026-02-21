@@ -73,6 +73,10 @@ Managed PostgreSQL with a generous free tier. Trying it out for side projects.
 
 AI-powered coding assistant that runs in the terminal. Useful for exploring codebases, writing code and automating multi-step tasks.
 
+### [Playwright MCP](https://github.com/anthropics/playwright-mcp) — Adopt
+
+MCP server that gives Claude Code browser automation capabilities via Playwright. Great for QA or UX reviews.
+
 ## Email
 
 ### [Proton Mail](https://proton.me/mail) — Adopt
