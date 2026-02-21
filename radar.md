@@ -65,6 +65,46 @@ Getting locked out of Gmail would be disastrous and Google support is abysmal.
 
 Chromium-based so all Chrome extensions work. Good built-in ad blocker, search and AI summaries. The crypto features are annoying but easy to switch off. Using as both desktop and mobile browser.
 
+## Mac Apps
+
+### [Rectangle](https://rectangleapp.com/) — Adopt
+
+Window management via keyboard shortcuts. Free and open source.
+
+### [Amphetamine](https://apps.apple.com/app/amphetamine/id937984704) — Adopt
+
+Keeps your Mac awake when you need it. Simple and reliable.
+
+### [Calibre](https://calibre-ebook.com/) — Adopt
+
+Convert e-books between formats.
+
+### [Draw Things](https://drawthings.ai/) — Adopt
+
+AI image generation that runs locally on your Mac.
+
+### [Whispr Flow](https://www.whisprflow.com/) — Adopt
+
+Voice-to-text input. Fast and accurate dictation anywhere on your Mac. Subscription service.
+
+### [Handy](https://handy.computer/) — Trial
+
+Voice-to-text input, similar to Whispr Flow. Trying it out as an alternative. Open source.
+
+### [Itsycal](https://www.mowglii.com/itsycal/) — Adopt
+
+Tiny menu bar calendar.
+
+### [Monosnap](https://monosnap.com/) — Adopt
+
+Screenshots and screen recording with built-in annotation tools.
+
+## Password Managers
+
+### [Bitwarden](https://bitwarden.com/) — Adopt
+
+Open source, works on mobile and desktop, can share a vault with family members, and free.
+
 ## Infrastructure
 
 ### [Namecheap](https://www.namecheap.com/) — Adopt
@@ -78,3 +118,7 @@ Reliable VPS hosting with great UX and superb documentation.
 ### [Hetzner](https://www.hetzner.com/) — Trial
 
 Excellent pricing for VPS. Trying it out for side projects.
+
+### [Coolify](https://coolify.io/) — Trial
+
+Open-source, self-hostable alternative to Heroku/Netlify/Vercel for deploying apps and services on your own infrastructure.
