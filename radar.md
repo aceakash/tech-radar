@@ -49,6 +49,12 @@ Feature-rich but proprietary. Content is locked in their platform. Moved to Obsi
 
 The Swiss army knife of code editors. Huge extension ecosystem, works for almost any language or workflow.
 
+## Databases
+
+### [Neon](https://neon.tech/) — Trial
+
+Managed PostgreSQL with a generous free tier. Trying it out for side projects.
+
 ## AI Tools
 
 ### [Claude Code](https://docs.anthropic.com/en/docs/claude-code) — Adopt
