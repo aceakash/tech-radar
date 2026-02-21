@@ -48,3 +48,33 @@ Feature-rich but proprietary. Content is locked in their platform. Moved to Obsi
 ### [Claude Code](https://docs.anthropic.com/en/docs/claude-code) — Adopt
 
 AI-powered coding assistant that runs in the terminal. Useful for exploring codebases, writing code and automating multi-step tasks.
+
+## Email
+
+### [Proton Mail](https://proton.me/mail) — Adopt
+
+Privacy by default.
+
+### [Gmail](https://mail.google.com/) — Hold
+
+Getting locked out of Gmail would be disastrous and Google support is abysmal.
+
+## Browser
+
+### [Brave](https://brave.com/) — Adopt
+
+Chromium-based so all Chrome extensions work. Good built-in ad blocker, search and AI summaries. The crypto features are annoying but easy to switch off. Using as both desktop and mobile browser.
+
+## Infrastructure
+
+### [Namecheap](https://www.namecheap.com/) — Adopt
+
+Cheap and simple DNS management.
+
+### [Digital Ocean](https://www.digitalocean.com/) — Adopt
+
+Reliable VPS hosting with great UX and superb documentation.
+
+### [Hetzner](https://www.hetzner.com/) — Trial
+
+Excellent pricing for VPS. Trying it out for side projects.
