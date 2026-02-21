@@ -30,3 +30,4 @@ When adding entries to the radar:
 
 - Do not include the `Co-Authored-By` trailer in commit messages.
 - Each tool entry should get its own commit.
+- Commit message format: `Add <Tool> (<Status>) — <Category>`
