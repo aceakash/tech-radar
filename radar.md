@@ -41,6 +41,10 @@ A modern `ls` replacement with colours, icons and tree view support.
 
 A `curl` frontend with the ease of HTTPie and the power of curl.
 
+### [zoxide](https://github.com/ajeetdsouza/zoxide) — Trial
+
+A smarter `cd` that learns your most-used directories and lets you jump to them with fuzzy matching.
+
 ## Knowledge Management
 
 ### [Obsidian](https://obsidian.md/) — Adopt
