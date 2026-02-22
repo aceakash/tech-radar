@@ -93,6 +93,10 @@ Getting locked out of Gmail would be disastrous and Google support is abysmal.
 
 Chromium-based so all Chrome extensions work. Good built-in ad blocker, search and AI summaries. The crypto features are annoying but easy to switch off. Using as both desktop and mobile browser.
 
+### [Vivaldi](https://vivaldi.com/) — Trial
+
+Chromium-based with deep customisation — tab stacking, built-in mail and calendar, and strong privacy defaults.
+
 ## Mac Apps
 
 ### [Rectangle](https://rectangleapp.com/) — Adopt
