@@ -131,6 +131,10 @@ Tiny menu bar calendar.
 
 Screenshots and screen recording with built-in annotation tools.
 
+### [Hidden Bar](https://github.com/dwarvesf/hidden) — Trial
+
+Hides menu bar items to keep things tidy. Free and open source.
+
 ## Password Managers
 
 ### [Bitwarden](https://bitwarden.com/) — Adopt
