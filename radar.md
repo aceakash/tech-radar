@@ -41,6 +41,10 @@ A modern `ls` replacement with colours, icons and tree view support.
 
 A `curl` frontend with the ease of HTTPie and the power of curl.
 
+### [fnm](https://github.com/Schniz/fnm) — Adopt
+
+Fast and simple Node.js version manager built in Rust. Supports `.node-version` and `.nvmrc` files, works with all major shells, and is significantly faster than nvm.
+
 ### [zoxide](https://github.com/ajeetdsouza/zoxide) — Trial
 
 A smarter `cd` that learns your most-used directories and lets you jump to them with fuzzy matching.
