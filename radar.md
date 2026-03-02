@@ -135,6 +135,10 @@ Tiny menu bar calendar.
 
 Screenshots and screen recording with built-in annotation tools.
 
+### [Shottr](https://shottr.cc/) — Trial
+
+Screenshot tool with a standout scrolling capture feature for capturing long pages. Trying it out as an alternative to Monosnap.
+
 ### [Hidden Bar](https://github.com/dwarvesf/hidden) — Trial
 
 Hides menu bar items to keep things tidy. Free and open source.
