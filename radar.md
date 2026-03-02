@@ -27,6 +27,10 @@ Used for 10 years before moving to Ghostty. Still a solid choice, you can't go w
 
 Autosuggestions from history as you type, syntax highlighting in the terminal and great tab completions, all out of the box. Not POSIX-compatible, so you need to drop into bash for scripts that require it.
 
+### [Starship](https://starship.rs/) — Trial
+
+A cross-shell prompt with a clean, informative display. Trying it out with Fish to get richer context (git branch, language versions, etc.) in the prompt.
+
 ## CLI Tools
 
 ### [bat](https://github.com/sharkdp/bat) — Adopt
